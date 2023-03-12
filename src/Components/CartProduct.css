@@ -1,0 +1,35 @@
+.price{
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+
+
+}
+
+.add{
+ border-bottom: 1px solid gray;
+}
+.cart-btn{
+ outline: none;
+ border: none;
+ background-color: white;
+
+
+}
+.inc{
+ font-size: 15px;
+ border: none;
+ background: white;
+
+}
+.pr1{
+ width: 8rem;
+}
+/* .grid-container{
+ display: grid;
+ column-gap: 20px;
+ grid-template-columns: auto auto auto auto auto;
+}
+.grid-item{
+ text-align: center;
+} */

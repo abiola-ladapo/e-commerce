@@ -1,0 +1,57 @@
+*{
+ font-family: poppins;
+ padding: 0;
+ margin: 0;
+}
+
+.product1-container{
+ width: 100%;
+ height: fit-content;
+
+}
+hr{
+ width: 20%;
+}
+.deal{
+ background-color: #f9f9f9;
+ height: fit-content;
+}
+.discount{
+ text-decoration: line-through;
+}
+.deal-text{
+ font-size: small;
+ line-height: 30px;
+}
+.deal-btn{
+ outline: none;
+ border: none;
+ border: 1px solid red;
+ border-radius: 5px;
+ background-color: #ffff;
+ font-size: small;
+}
+.deal-btn a{
+ text-decoration: none;
+ color: red;
+}
+.days{
+ box-shadow: 4px 4px 4px gainsboro;
+ width: 4rem;
+ height: 4rem;
+}
+.hours{
+ box-shadow: 4px 4px 4px gainsboro;
+ width: 4rem;
+ height: 4rem;
+}
+.mins{
+ box-shadow: 4px 4px 4px gainsboro;
+ width: 4rem;
+ height: 4rem;
+}
+.secs{
+ box-shadow: 4px 4px 4px gainsboro;
+ width: 4rem;
+ height: 4rem;
+}

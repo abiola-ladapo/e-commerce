@@ -1,0 +1,17 @@
+*{
+ font-family: poppins;
+}
+.home-container{
+ background-image: url('../../images/bee.jpg');
+ width: 100%;
+ height: 100vh;
+ background-position: center;
+ background-size: cover;
+ position: relative;
+}
+.home-details{
+ color: white;
+ position: absolute;
+ top: 30%;
+ line-height: 35px;
+}
